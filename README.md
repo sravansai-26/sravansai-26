@@ -13,7 +13,7 @@ Building full-stack digital ecosystems across civic technology, logistics, and e
 [![Portfolio](https://img.shields.io/badge/Portfolio-buildwithsravan.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://buildwithsravan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravan-sai-vuppula-753b711ba)
 [![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sravansaivuppula)
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai1234comon@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@buildwithsravan.dev)
 
 </div>
 
@@ -97,7 +97,7 @@ I'm open to collaboration, technical roles, and infrastructure work for scaling 
 [![Portfolio](https://img.shields.io/badge/Portfolio-buildwithsravan.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://buildwithsravan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravan-sai-vuppula-753b711ba)
 [![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sravansaivuppula)
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai1234comon@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@buildwithsravan.dev)
 
 </div>
 
