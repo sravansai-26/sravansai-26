@@ -1,123 +1,106 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2F3F5,100:DDE1E6&height=4&width=100%25" width="100%"/>
+</div>
 
+<div align="center">
+  
 # Sravan Sai Vuppula
-### Founder @ LYFSpot • Full-Stack Developer 
 
-**Engineering scalable digital products with purpose, simplicity, and architectural intent.**
+### Founder & Chief Technical Architect — [LYFSpot](https://sailyfspot.blogspot.com)
 
-<br>
+Building full-stack digital ecosystems across civic technology, logistics, and enterprise software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithsravan.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://buildwithsravan.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithsravan.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://buildwithsravan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravan-sai-vuppula-753b711ba)
-[![GitHub](https://img.shields.io/badge/GitHub-sravansai--26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sravansai-26)
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sravansaivuppula)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai1234comon@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sravansaivuppula)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai1234comon@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 🛠️ Executive Summary & Philosophy
+## 🚀 About Me
 
-I am a product-focused software engineer and the founder of **LYFSpot**. My work bridges the gap between clean code, modular software architecture, and real-world value. I specialize in designing and engineering high-impact web and mobile ecosystems across civic technology, enterprise pipelines, and digital orchestration platforms.
+I'm a product-focused software engineer and the founder of **LYFSpot**, a product ecosystem spanning civic tech, logistics, and media-production tooling. Since 2020, I've owned the full lifecycle — architecture, build, and deployment — of seven shipped products, alongside a certified track in SAP enterprise development.
 
-> **The Engineering Mindset:** Software architecture is a long-term investment. I believe complexity should be resisted, simplicity scales effortlessly, and the best software isn't measured by lines written, but by the tangible efficiency it provides to its users.
+I treat architecture as a long-term investment: resist unnecessary complexity, design for simplicity to scale, and measure software by the efficiency it returns to the people using it — not by lines written.
 
----
+<br/>
 
-## 🚀 Product Ecosystem & Core Ventures
+## 🏗️ What I'm Building
 
-The core translation of my engineering principles into running digital solutions:
+**LYFSpot** is a decentralized product ecosystem engineered to simplify civic, corporate, and creative operations.
 
-### 🌍 [LYFSpot](https://buildwithsravan.dev)
-An umbrella technology initiative focused on architecting meaningful products that simplify daily workflows, enhance civic infrastructure, and scale community-driven solutions.
+| Product | Description | Stack | Live |
+|---------|-------------|-------|------|
+| **ResolveIt** | Civic issue-reporting platform with geo-routing and transparent resolution tracking | MongoDB · Express · React · Node.js | [Official Platform](https://resolveit-community.me) · [Download Gateway](https://resolveit-gateway.vercel.app) |
+| **Smart LoadMate** | Fleet optimization and dispatch platform for logistics coordination | React Native · Expo · FastAPI · MongoDB | [Live App](https://smart-loadmate.vercel.app) |
+| **Shotweave** | Production-management platform for shoot scheduling and resource tracking | React · Python · MongoDB · Tailwind CSS | [Live App](https://shotweave.vercel.app) |
+| **DeployBridge** | Deployment-pipeline abstraction layer built for a national hackathon | MongoDB · Express · React · Node.js | Deploying soon |
+| **VaultBank** | Enterprise banking simulation modeled on real fintech workflows | Java · Spring Boot · MySQL · React | Deploying soon |
 
-<br>
+<br/>
 
-<table border="0">
-<tr>
-<td width="50%" valign="top">
+## 💻 Tech Stack
 
-### 📍 ResolveIt
-*Civic Technology Platform*
-* **The Problem:** Fragmented communication between urban citizens and municipal authorities.
-* **The Solution:** A community-driven civic issue management engine featuring automated geo-location routing and transparent resolution lifecycles.
-* **Stack:** MongoDB • Express • React • Node.js (MERN)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,python,js,ts,html,css,aws,gcp,git,github&theme=light" />
+</div>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🎬 Shotweave
-*Media Production Orchestration*
-* **The Problem:** Fragmented, ad-hoc workflows within independent filmmaking and production sets.
-* **The Solution:** An integrated enterprise-grade management platform built to centralize operational planning, shoot scheduling, and dynamic resource tracking.
-* **Stack:** React • Python • MongoDB • Tailwind CSS
+**Backend & APIs:** Node.js, Express, Spring Boot, FastAPI, REST & Microservice Design  
+**Frontend:** React, React Native, Tailwind CSS, TypeScript  
+**Cloud & Infra:** AWS, GCP, Cloudflare Edge Workers, Vercel, Render, Cloudinary
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🚚 LoadMate
-*Logistics & Fleet Intelligence*
-* **The Problem:** Operational blind spots and friction in commercial transport coordination.
-* **The Solution:** A smart platform tailored for fleet optimization, dispatch transparency, and end-to-end routing efficiency.
-* **Stack:** React Native • Node.js • REST APIs
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+**Enterprise:**
+<br/><br/>
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 
-### 🌐 Personal Portfolio v2
-*Digital Identity Engineering*
-* **The Problem:** Standard resumes fail to capture structural code design or architectural depth.
-* **The Solution:** A responsive, lightning-fast edge-rendered engineering hub detailing active codebases, interactive milestones, and platform performance.
-* **Stack:** React • TypeScript • TanStack Start • Vite
+</div>
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <sub>SAP ABAP · SAP S/4HANA Cloud · ABAP RESTful Application Programming Model (RAP)</sub>
+</div>
 
----
+<br/>
 
-## 💻 Technical Toolkit
+## 💼 Experience
 
-### Core Architecture & Execution Stack
-* **Languages:** JavaScript (ES6+), TypeScript, Java, Python, SQL
-* **Frontend Engineering:** React, TanStack Start, Tailwind CSS, Vite, HTML5/CSS3
-* **Backend & API Design:** Node.js, Express, RESTful API Design, Microservices architecture
-* **Databases & Integrity:** MongoDB, MySQL, Relational & Non-Relational Schema Optimization
-* **Enterprise Infrastructure:** SAP ABAP (Certified), RAP (RESTful Application Programming)
-* **Cloud & Operations (DevOps):** Cloudflare (Edge Workers), Vercel, Render, Git Version Control
+**Founder & Chief Technical Architect** — LYFSpot · *Oct 2020 – Present*  
+*Architecting multi-sector technical frameworks across SaaS, civic tech, logistics, and fintech; owning the end-to-end full-stack lifecycle of every product in the ecosystem.*
 
-### High-Level Engineering Areas of Interest
-```text
-[Product Discovery] ──> [System Architecture] ──> [Full-Stack Implementation] ──> [Edge Deployment & Monitoring]
+**DevCon Associate, Enterprise SAP Track** — Naxrita India · *Mar – May 2026*  
+*Built scalable custom extensions on SAP S/4HANA, including custom Data Dictionary structures, internal table optimization, and backend modularization.*
 
-```
+<br/>
 
-* Distributed Cloud Architectures & Edge Computing
-* AI-Assisted Developer Tooling & Workflow Automations
-* Scalable Database Optimization & System Design Patterns
+## 🎯 Currently Focused On
 
----
+- Scaling ResolveIt and Shotweave from MVP to production-grade infrastructure
+- Going deeper on cloud-native engineering with AWS and Azure
+- Combining MERN-stack systems with SAP RAP for enterprise integration
+- Open-sourcing reusable components from the LYFSpot stack
 
-## 📊 Live Metrics & Code Activity
+<br/>
 
----
+## 📫 Let's Connect
 
-## 🎯 Strategic Roadmap (2026)
+I'm open to collaboration, technical roles, and infrastructure work for scaling startups.
 
-* 🟩 **Production Scale:** Finalizing the Shotweave MVP and extending the live infrastructure for ResolveIt.
-* 🟦 **Cloud Infrastructure:** Completing systematic deep dives into cloud-native engineering alongside targeted AWS & Azure technical verifications.
-* 🟧 **Enterprise Integration:** Expanding enterprise application capabilities by combining core MERN stacks with SAP RAP frameworks.
-* 🟪 **Open Source:** Committing foundational components to tools designed to elevate developer experiences and accessibility.
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithsravan.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://buildwithsravan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravan-sai-vuppula-753b711ba)
+[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sravansaivuppula)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai1234comon@gmail.com)
 
----
+</div>
 
-## 🤝 Let's Connect
-
-Whether you are looking at my repositories for validation, scoping out technical talent for a corporate role, or looking to collaborate on high-scale startup infrastructure, feel free to reach out.
-
-**[Secure Enterprise Portal](https://buildwithsravan.dev)**  •  **[LinkedIn Professional Network](https://www.linkedin.com/in/sravan-sai-vuppula-753b711ba)**  •  **[Technical Publications on Medium](https://medium.com/@sravansaivuppula)**  •  **[Direct Engineering Inquiry](mailto:sai1234comon@gmail.com)**
-
-*Thank you for evaluating my work. Let's engineer systems that scale.*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DDE1E6,100:F2F3F5&height=4&width=100%25" width="100%"/>
+</div>
